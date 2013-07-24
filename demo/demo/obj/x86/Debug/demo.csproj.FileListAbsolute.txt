@@ -1,0 +1,5 @@
+C:\Users\pcoonan\gittest\demo\demo\bin\Debug\demo.exe
+C:\Users\pcoonan\gittest\demo\demo\bin\Debug\demo.pdb
+C:\Users\pcoonan\gittest\demo\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pcoonan\gittest\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\pcoonan\gittest\demo\demo\obj\x86\Debug\demo.pdb
