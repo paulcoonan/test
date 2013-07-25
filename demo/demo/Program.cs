@@ -7,6 +7,7 @@ namespace demo
         static void Main(string[] args)
         {
             Console.WriteLine("Demo project");
+            Console.ReadLine();
         }
     }
 }
